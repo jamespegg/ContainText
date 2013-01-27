@@ -4,8 +4,11 @@
 	 *
 	 * This extends the functionality of resize() by checking whether $(window)
 	 * actually changed size. This essentially debounces resize() in all browsers.
-	 *
-	 * https://github.com/jamespegg/jQuery-Changed
+	 * 
+	 * @author James Pegg
+	 * @copyright 2013 James Pegg
+	 * @license https://github.com/jamespegg/jQuery-Changed/blob/master/LICENSE.md 
+	 * @link https://github.com/jamespegg/jQuery-Changed
 	 * 
 	 * @param  {object} func The function handler to be initiated.
 	 */
@@ -38,7 +41,7 @@
 	 *
 	 * @author James Pegg
 	 * @copyright 2013 James Pegg
-	 * @license [url] [description]
+	 * @license https://github.com/jamespegg/ContainText/blob/master/LICENSE.md
 	 * @link https://github.com/jamespegg/ContainText
 	 *
 	 * 
